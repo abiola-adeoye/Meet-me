@@ -2,6 +2,15 @@
 <h3 align="center">A science nerd turned software & Data Engineer</h3>
 <p align="center">Trying to carve a niche for myself in the realm of software, data, and finance</p>
 
+<h3 align="center">Topics</h3>
+<ol>
+  <li>First point</li>
+  <li>Second point</li>
+  <li>Third point</li>
+  <li>Fourth point</li>
+</ol>
+
+
 <h3 align="center">Programming languages</h3>
 <p align="center" >
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
