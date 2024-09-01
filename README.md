@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abiola</h1>
+<h1 align="center">Hi 👋, I'm Abiola </h1>
 <h3 align="center">A science nerd turned Software & Data Engineer<br>Trying to carve a niche for myself in the realm of software, data, and finance</h3>
 
 
