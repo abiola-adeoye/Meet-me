@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abiola</h1>
-<h3 align="center">A science nerd turned Software & Data Engineer</h3>
-<p align="center">Trying to carve a niche for myself in the realm of software, data, and finance</p>
+<h3 align="center">A science nerd turned Software & Data Engineer<br>Trying to carve a niche for myself in the realm of software, data, and finance</h3>
+
 
 <h3 align="center">Topics</h3>
 <p align="center">
