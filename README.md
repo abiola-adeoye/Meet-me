@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abiola </h1>
-<h3 align="center">A science nerd turned Software & Data Engineer<br>Trying to carve a niche for myself in the realm of software, data, and finance</h3>
+<h3 align="center">A science nerd turned Software & Data Engineer<br>Trying to carve a niche for myself in the realm of Software, Data, and Finance.</h3>
+<p align="center">Little fun fact about me, I love lawn tennis (watching & playing) because it's the pinnacle of athletic sports </p>
 
 
 <h3 align="center">Topics</h3>
